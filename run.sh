@@ -1,0 +1,1 @@
+CUDA_VISIBLE_DEVICES=6 python mainGSS.py --config config.py --exp_name confirm_node12 --checkpoint_dir checkpoint_node12 --log_dir logs_node12 --num_gpu 1
